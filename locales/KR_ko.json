@@ -4,7 +4,8 @@
 		"faq": "자주 묻는 질문",
 		"credits": "크레딧",
 		"progress": "진행률",
-		"blog": "블로그"
+		"blog": "블로그",
+		"account": "계정"
 	},
 	"hero": {
 		"subtitle": "다시 만들어진",
@@ -66,8 +67,27 @@
 			}
 		]
 	},
+	"showcase": {
+		"title": "저희가 만드는 것들",
+		"text": "저희 프로젝트는 여러 부분으로 나뉘어져 있습니다. 그 중 몇개를 여기서 확인하시죠.",
+		"cards": [
+			{
+				"title": "게임 서버",
+				"caption": "유저들이 좋아하는 게임과 컨텐츠를 커스텀 서버로 부활시킵니다."
+			},
+			{
+				"title": "Juxtaposition",
+				"caption": "최근에 처음 만들어진 것처럼 만드는, Miiverse의 재제작입니다. "
+			},
+			{
+				"title": "Cemu 지원",
+				"caption": "당신이 좋아하는 Wii U 타이틀을 콘솔 없이 플레이하세요!"
+			}
+
+		]
+	},
 	"credits": {
-		"title": "만든 사람들",
+		"title": "개발 팀",
 		"text": "프로젝트 뒤에서 일하는 사람들을 만나보세요",
 		"people": [
 			{
@@ -154,8 +174,32 @@
 				"caption": "닌텐도 데이터 구조 연구",
 				"picture": "https://cdn.discordapp.com/avatars/186572995848830987/b55c0d4e7bfd792edf0689f83a25d8ea.png?size=128",
 				"github": "https://github.com/Kinnay"
+			},
+			{
+				"name": "GitHub 기여자들",
+				"caption": "로컬라이징 및 다른 기여",
+				"picture": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
 			}
 		]
+	},
+	"discordJoin": {
+		"title": "최신 정보",
+		"text": "저희의 최신 정보를 얻으려면 저희 Discord 서버에 참여하세요.",
+		"widget": {
+			"text": "저희 진행도의 실시간 업데이트를 얻으세요",
+			"button": "서버 참여하기"
+		}
+	},
+	"footer": {
+		"socials": "소셜",
+		"usefulLinks": "쓸모있는 링크",
+		"widget": {
+			"captions": [
+				"지속적 업데이트를 받고 싶으세요?",
+				"저희 Discord 서버에 참여하세요!!"
+			],
+			"button": "지금 참여하기!"
+		}
 	},
 	"progressPage": {
 		"title": "프로젝트 진행률",
@@ -171,6 +215,6 @@
 		"instructions": "로컬라이즈",
 		"fileInput": "테스트할 파일",
 		"filePlaceholder": "https://a.link.to/the_file.json",
-		"button": "테스트 파일"
+		"button": "파일 테스트"
 	}
 }

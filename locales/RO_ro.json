@@ -4,7 +4,8 @@
 		"faq": "FAQ",
 		"credits": "Mulțumiri",
 		"progress": "Progres",
-		"blog": "Blog"
+		"blog": "Blog",
+		"account": "Account"
 	},
 	"hero": {
 		"subtitle": "Servere de Jocuri",
@@ -64,6 +65,25 @@
 				"question": "Va trebui să îmi modific consola?",
 				"answer": "Da, va trebui să-ți modifici consola pentru a te conecta; însă, pe Wii U îți trebuie doar acces la Homebrew Launcher (adică Haxchi, Coldboot Haxchi, sau chiar exploatarea de pe web browser), cu informații despre cum 3DS se va conecta sosind la o dată mai târzie."
 			}
+		]
+	},
+	"showcase": {
+		"title": "Ce creăm",
+		"text": "Proiectul nostru are multe componente. Aici sunt câteva dintre ele.",
+		"cards": [
+			{
+				"title": "Servere de jocuri",
+				"caption": "Îți aducem înapoi jocurile și conținuturile tale preferate folosind servere personalizate."
+			},
+			{
+				"title": "Juxtaposition",
+				"caption": "O reimaginare a Miiverse, ca și când ar fi din era modernă."
+			},
+			{
+				"title": "Suport Cemu",
+				"caption": "Joacă jocurile tale preferate de pe Wii U chiar și fără o consolă!"
+			}
+
 		]
 	},
 	"credits": {
@@ -154,8 +174,32 @@
 				"caption": "Cercetare pe structurile de date de la Nintendo",
 				"picture": "https://cdn.discordapp.com/avatars/186572995848830987/b55c0d4e7bfd792edf0689f83a25d8ea.png?size=128",
 				"github": "https://github.com/Kinnay"
+			},
+			{
+				"name": "GitHub contributors",
+				"caption": "Localizations and other contributions",
+				"picture": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
 			}
 		]
+	},
+	"discordJoin": {
+		"title": "Fii la zi",
+		"text": "Alătură-te serverului nostru de Discord pentru a primi ultimele actualizări despre proiectele noastre.",
+		"widget": {
+			"text": "Obține noutăți despre progresul nostru în timp real",
+			"button": "Alătură-te serverului"
+		}
+	},
+	"footer": {
+		"socials": "Rețele sociale",
+		"usefulLinks": "Link-uri folositoare",
+		"widget": {
+			"captions": [
+				"Vrei să obții ultimele actualizări?",
+				"Alătură-te serverului nostru de Discord!"
+			],
+			"button": "Alătură-te!"
+		}
 	},
 	"progressPage": {
 		"title": "Progresul nostru",
